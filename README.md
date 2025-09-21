@@ -22,3 +22,5 @@ This is a simple number guessing game written in Go. The goal is for the user to
 # Contributions
 I do not think nobody would contribute on this, but if you want to I would be happy to see yours ;D
 I am just practicing for creating bigger projects with good practices
+# Idea of the proyect
+https://roadmap.sh/projects/number-guessing-game
